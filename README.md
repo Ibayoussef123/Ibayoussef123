@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1><img src="https://media.tenor.com/NfTfpNyxOh8AAAAd/kage-no-jitsuryokusha-ni-naritakute-kagenou-cid.gif" alt="GIF Title"></h1>
+  <h1><img src="https://assets.sutori.com/user-uploads/image/e76fb841-e6ba-42cc-859c-3085db1e25d6/dcf857dd0800d6438e2e150578d466ba.gif" alt="GIF Title"></h1>
 </div>
 
 
