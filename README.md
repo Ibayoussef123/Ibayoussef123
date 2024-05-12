@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-Hi! My name is Imrane Bayoussef, a self-taught data scientist who's passionate about using data to drive business decisions and solve complex problems.
+Hi! My name is Imrane Bayoussef, a self-taught data engineer who's passionate about using data to drive business decisions and solve complex problems.
 
 
 ## 🌐 Socials:
