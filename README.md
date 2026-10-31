@@ -1,7 +1,7 @@
 # Imrane Bayoussef
 
 **Quantitative Developer & Low-Latency Systems Enthusiast**  
-Casablanca, Morocco • [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/imrane-bayoussef/)) • [Email](mailto:bayoussefimrane@gmail.com)
+Casablanca, Morocco • [LinkedIn](https://www.linkedin.com/in/imrane-bayoussef/) • [Email](mailto:bayoussefimrane@gmail.com)
 
 ---
 
